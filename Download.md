@@ -8,39 +8,26 @@ permalink: /Download
 
 # Download
 
-## Stable
-
-Version: **2020.5.1**  
-Date: **05.09.2020**
+Version: **2020.12.0**  
+Date: **06.12.2020**
 
 | File | Checksum [SHA256] |
 |---|---|
-|[:package: Setup](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.5.1/NETworkManager_2020.5.1_Setup.exe){:target="_blank"}| `EC5324009FABF9025A91352C542523B03AC0F55B4090A0E41721AED852A9F968` | 
-|[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.5.1/NETworkManager_2020.5.1_Portable.zip){:target="_blank"}| `FCC6962C65CDC0ED5137ACDFD23DE97801A1ED74557426BE8AD68F6DBFD366B6` | 
-|[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.5.1/NETworkManager_2020.5.1_Archiv.zip){:target="_blank"}| `E0D10A9CA0E7DAE15C85AE58BB1350E139E8EF6B96D147B40B680AFEB6ED8E85` | 
+|[:package: Setup](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.0/NETworkManager_2020.12.0_Setup.exe){:target="_blank"}| `07B238ADC7B865AB3EB7F7C395674EB2A6C95ADCD4724317941EAB895D3E064D` | 
+|[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.0/NETworkManager_2020.12.0_Portable.zip){:target="_blank"}| `191F5A1C7E7DC59EE4B7CB17546564F69339D2963B7EC782FBE48F35C4B10C00` | 
+|[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.0/NETworkManager_2020.12.0_Archiv.zip){:target="_blank"}| `0038524849EAD33A3BAA8B493A424B0416D360E54DB52E931557219C30AAE955` | 
 
 The setup is also available in the Windows Package Manager [:link: Chocolatey](https://chocolatey.org/packages/NETworkManager){:target="_blank"}.
 
-⚠️ **SYSTEM REQUIREMENTS** ⚠️
-- Windows 10 or Server 2016
-- .NET-Framework 4.7.2
-
-## Preview
-
-Version: **2020.9.0 [Preview]**  
-Date: **05.09.2020**
-
-| File | Checksum [SHA256]
-|---|---|
-|[:package: Setup](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.9.0/NETworkManager_2020.9.0_Setup.exe)| `0EC8C1371C4D62947AE0DC70DBAA91FE105CACECD32DF4A4451C95F71D085014` |
-|[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.9.0/NETworkManager_2020.9.0_Portable.zip)| `E8B60E677E65959BB11F05884F6EA9EC99F09F24ECE869A240B8361F958B4A66` |
-|[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.9.0/NETworkManager_2020.9.0_Archiv.zip)| `86D13E4C139132BCBA86B6F72ADA4D679C4DD303EA08643D276AE1A5DFD47C47` |
+Note: _If you've installed the preview, uninstall it first!_
 
 ⚠️ **SYSTEM REQUIREMENTS** ⚠️
-- Windows 10 x64
-- [.NET 5.0 / Desktop Runtime 5.0.0-preview.8](https://dotnet.microsoft.com/download/dotnet/5.0)
-- [Microsoft Edge Canary](https://www.microsoftedgeinsider.com/en-us/download)
+- Windows 10 / Server (1809 or later)
+- [.NET 5.0 / .NET Desktop Runtime 5.0.0](https://dotnet.microsoft.com/download/dotnet/5.0)
+- [Microsoft Edge (Chromium)](https://www.microsoft.com/de-de/edge)
 
-⚠️  **KOWN ISSUES** ⚠️ 
-- Application crash on fullscreen [#325](http://github.com/BornToBeRoot/NETworkManager/issues/325)
-- [More...](https://github.com/BornToBeRoot/NETworkManager/issues?q=label%3A.NET5.0-feedback+)
+---
+
+**Looking for older versions?**
+- [Last release for .NET 4.7.2](https://borntoberoot.net/NETworkManager/Changelog#version-202051)
+- [Last release for Windows 7](https://borntoberoot.net/NETworkManager/Archiv/Changelog-v1#version-11100)
